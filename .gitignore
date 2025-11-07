@@ -1,7 +1,6 @@
-# Don't upload these to GitHub
 venv/
 __pycache__/
-*.pyc
 chroma_db/
 .DS_Store
+*.pyc
 *.log
